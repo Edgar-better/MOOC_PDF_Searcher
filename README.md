@@ -4,7 +4,7 @@
 
 要期末了，有些同学想要下载慕课上的PDF呀，但是网页却不给下载，但是其实在网页的链接上是有这个PDF链接的，如下
 
-<img src='./img/1.png' width=500 align='left'>
+<img src='./img/1.png' width=500>
 
 
 
