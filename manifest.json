@@ -1,0 +1,25 @@
+{
+   "background": {
+      "scripts": [ "./js/get.js" ]
+   },
+   "browser_action": {
+      "default_icon": "./img/logo.png",
+      "default_popup": "./popup.html",
+      "default_title": "MOOC PDF Searcher"
+   },
+   "content_scripts": [ {
+      "all_frames": false,
+      "js": [ "./js/get.js" ],
+      "matches": [ "http://*/*", "https://*/*" ],
+      "run_at": "document_end"
+   } ],
+  
+   "default_locale": "zh_CN",
+   "description": "Mooc PDF Searcher, a extension which can help you find PDF in MOOC",
+   "icons": {
+      "32": "./img/logo.png"
+   },
+   "manifest_version":2,
+   "version":"1.0.0",
+   "name": "MOOC PDF Searcher"
+}
