@@ -20,25 +20,25 @@
 
 <br>
 
-<img src='./img/2.png' align=left>
+<img src='./img/2.png' >
 
 - 打开开发者选项，加载文件包
 
   <br>
 
-<img src='./img/3.png' align=left>
+<img src='./img/3.png' >
 
 - 启动扩展
 
   <br>
 
-<img src='./img/4.png' width=400 align=left>
+<img src='./img/4.png' width=400 >
 
 - 双击击PDF上面的 bar，可出现 *download* 按钮，点击即可下载
 
 <br>
 
-<img src='./img/5.png' width=600 align=left>
+<img src='./img/5.png' width=600 >
 
 
 
