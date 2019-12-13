@@ -38,7 +38,7 @@
 
 <br>
 
-<img src='./img/5.png' width=600 >
+<img src='./img/display.gif' width=600 >
 
 
 <br>
