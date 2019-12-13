@@ -4,7 +4,7 @@
 
 要期末了，有些同学想要下载慕课上的PDF呀，但是网页却不给下载，但是其实在网页的链接上是有这个PDF链接的，如下
 
-<img src='./img/1.png' width=500 align='left'>
+<img src='./img/1.png' width=500 >
 
 
 
@@ -17,19 +17,19 @@
 - 下载该文档文件
 - 进入[谷歌扩展中心]( [chrome://extensions/](chrome://extensions/) )
 
-<img src='./img/2.png' align=left>
+<img src='./img/2.png' >
 
 - 打开开发者选项，加载文件包
 
-<img src='./img/3.png' align=left>
+<img src='./img/3.png' >
 
 - 启动扩展
 
-<img src='./img/4.png' width=400 align=left>
+<img src='./img/4.png' width=400>
 
 - 双击击PDF上面的 bar，可出现 *download* 按钮，点击即可下载
 
-<img src='./img/5.png' width=600 align=left>
+<img src='./img/5.png' width=600 >
 
 #### 3.说明
 
