@@ -16,7 +16,7 @@
 
 - 下载该[文档文件](https://github.com/Edgar-better/MOOC_PDF_Searcher/archive/master.zip)
 <br>
-- 进入[谷歌扩展中心](chrome://extensions/) 
+- 进入谷歌扩展中心(chrome://extensions/) 
 
 <br>
 
@@ -41,6 +41,7 @@
 <img src='./img/5.png' width=600 >
 
 
+<br>
 
 ### 3.说明
 
